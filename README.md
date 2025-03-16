@@ -1,7 +1,7 @@
 # Windows Maintenance Tool
-A simple cmd tool meant to be use for mainatance of windows desktops.
+A simple cmd tool meant to be use for maintenance of windows desktops.
 The Tool helps clean unnecessary files and check for any potential threads to the system using systeminternals programs
-and internat cmd commands.
+and internal cmd commands.
 
 # Includes
  - Running SFC Scan and Repair
