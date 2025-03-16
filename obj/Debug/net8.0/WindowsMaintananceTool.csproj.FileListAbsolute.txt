@@ -1,0 +1,14 @@
+C:\Users\Val\source\repos\WindowsMaintananceTool\bin\Debug\net8.0\WindowsMaintananceTool.exe
+C:\Users\Val\source\repos\WindowsMaintananceTool\bin\Debug\net8.0\WindowsMaintananceTool.deps.json
+C:\Users\Val\source\repos\WindowsMaintananceTool\bin\Debug\net8.0\WindowsMaintananceTool.runtimeconfig.json
+C:\Users\Val\source\repos\WindowsMaintananceTool\bin\Debug\net8.0\WindowsMaintananceTool.dll
+C:\Users\Val\source\repos\WindowsMaintananceTool\bin\Debug\net8.0\WindowsMaintananceTool.pdb
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\WindowsMaintananceTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\WindowsMaintananceTool.AssemblyInfoInputs.cache
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\WindowsMaintananceTool.AssemblyInfo.cs
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\WindowsMaintananceTool.csproj.CoreCompileInputs.cache
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\WindowsMaintananceTool.dll
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\refint\WindowsMaintananceTool.dll
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\WindowsMaintananceTool.pdb
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\WindowsMaintananceTool.genruntimeconfig.cache
+C:\Users\Val\source\repos\WindowsMaintananceTool\obj\Debug\net8.0\ref\WindowsMaintananceTool.dll
